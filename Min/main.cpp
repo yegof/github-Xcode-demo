@@ -1,10 +1,6 @@
 //
 //  main.cpp
-//  Min
-//
-//  Created by minyahil kebebegn on 12/22/15.
-//  Copyright © 2015 minyahil kebebegn. All rights reserved.
-//
+//  
 
 #include <iostream>
 
